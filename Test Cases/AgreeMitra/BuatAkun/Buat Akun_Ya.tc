@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Buat Akun_Ya</name>
+   <tag></tag>
+   <comment>Pesan Error
+Input textfield
+Password tidak sama
+Password Sama
+Field Belum Terisi</comment>
+   <testCaseGuid>78e7e27e-a19a-4eff-bbb3-84c0d155673c</testCaseGuid>
+</TestCaseEntity>

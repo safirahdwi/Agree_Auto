@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-10-12T20:13:53</date>
+  <millis>1634044433486</millis>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/TS005_Survei Lahan Baru</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="name">TS005_Survei Lahan Baru</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/TS005_Survei Lahan Baru</property>
+</record>
+<record>
+  <date>2021-10-12T20:13:53</date>
+  <millis>1634044433509</millis>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostName = deavag - localhost</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostName">deavag - localhost</property>
+</record>
+<record>
+  <date>2021-10-12T20:13:53</date>
+  <millis>1634044433512</millis>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>os = Mac OS X 64bit</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="os">Mac OS X 64bit</property>
+</record>
+<record>
+  <date>2021-10-12T20:13:53</date>
+  <millis>1634044433513</millis>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostAddress = 127.0.0.1</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostAddress">127.0.0.1</property>
+</record>
+<record>
+  <date>2021-10-12T20:13:53</date>
+  <millis>1634044433517</millis>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>katalonVersion = 7.5.11.1</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="katalonVersion">7.5.11.1</property>
+</record>
+<record>
+  <date>2021-10-12T20:13:53</date>
+  <millis>1634044433524</millis>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start listener action : beforeExportKatalonReports</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2021-10-12T20:13:53</date>
+  <millis>1634044433536</millis>
+  <sequence>7</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>This Katalon Studio version has been deprecated. Please upgrade Katalon Studio to the latest version.</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2021-10-12T20:13:53</date>
+  <millis>1634044433536</millis>
+  <sequence>9</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End listener action : beforeExportKatalonReports</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2021-10-12T20:13:53</date>
+  <millis>1634044433816</millis>
+  <sequence>10</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/AgreeFA/Pengajuan Lahan Baru/Survei Lahan Baru</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/AgreeFA/Pengajuan Lahan Baru/Survei Lahan Baru</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/AgreeFA/Pengajuan Lahan Baru/Survei Lahan Baru</property>
+  <property name="source">\\Users\\deavag\\Desktop\\AgreeMitra\\Test Cases\\AgreeFA\\Pengajuan Lahan Baru\\Survei Lahan Baru.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2021-10-12T20:13:54</date>
+  <millis>1634044434374</millis>
+  <sequence>12</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : startApplication(Path3, true)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">16</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2021-10-12T20:13:54</date>
+  <millis>1634044434899</millis>
+  <sequence>14</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>User set preference: [&amp;apos;deviceId&amp;apos;, &amp;apos;emulator-5554&amp;apos;]</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+<record>
+  <date>2021-10-12T20:13:57</date>
+  <millis>1634044437008</millis>
+  <sequence>15</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Appium server started on port 51,567</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+</log>

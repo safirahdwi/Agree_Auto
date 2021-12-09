@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Email_TextField</name>
+   <tag></tag>
+   <elementGuidId>435c27fc-e28f-48d3-9805-a93d1d383399</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.view.ViewGroup[5]/android.widget.EditText</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.view.ViewGroup[5]/android.widget.EditText</value>
+   </webElementProperties>
+</WebElementEntity>

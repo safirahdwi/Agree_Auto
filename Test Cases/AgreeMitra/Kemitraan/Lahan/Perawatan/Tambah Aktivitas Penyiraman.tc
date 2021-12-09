@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tambah Aktivitas Penyiraman</name>
+   <tag></tag>
+   <comment>Field Tanggal
+Jenis Perawatan
+Musim
+Populasi Saat Ini
+Kebutuhan Bahan
+Catatan
+Biaya
+Upload Gambar [1]
+Upload Gambar [2]
+Upload Gambar [3]
+Upload Gambar [4]
+Upload Gambar [5]
+Upload Gambar [1]
+Upload Gambar [2]
+Upload Gambar [3]
+Upload Gambar [4]
+Upload Gambar [5]
+Simpan</comment>
+   <testCaseGuid>1f553b91-1368-40fb-a6e2-a18bcd47ef31</testCaseGuid>
+</TestCaseEntity>

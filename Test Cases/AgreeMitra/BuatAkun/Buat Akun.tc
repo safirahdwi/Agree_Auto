@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Buat Akun</name>
+   <tag></tag>
+   <comment>Input textfield
+Field Belum Terisi</comment>
+   <testCaseGuid>b1cee8c2-8fac-45bc-aa2b-47fcd9ae2ec6</testCaseGuid>
+</TestCaseEntity>

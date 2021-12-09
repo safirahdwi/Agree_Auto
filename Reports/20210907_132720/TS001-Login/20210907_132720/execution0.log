@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-09-07T13:27:23</date>
+  <millis>1630996043478</millis>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/TS001-Login</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="name">TS001-Login</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/TS001-Login</property>
+</record>
+<record>
+  <date>2021-09-07T13:27:23</date>
+  <millis>1630996043494</millis>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostName = deavag - localhost</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostName">deavag - localhost</property>
+</record>
+<record>
+  <date>2021-09-07T13:27:23</date>
+  <millis>1630996043495</millis>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>os = Mac OS X 64bit</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="os">Mac OS X 64bit</property>
+</record>
+<record>
+  <date>2021-09-07T13:27:23</date>
+  <millis>1630996043495</millis>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostAddress = 127.0.0.1</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostAddress">127.0.0.1</property>
+</record>
+<record>
+  <date>2021-09-07T13:27:23</date>
+  <millis>1630996043499</millis>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>katalonVersion = 7.5.11.1</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="katalonVersion">7.5.11.1</property>
+</record>
+<record>
+  <date>2021-09-07T13:27:23</date>
+  <millis>1630996043504</millis>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start listener action : beforeExportKatalonReports</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2021-09-07T13:27:23</date>
+  <millis>1630996043512</millis>
+  <sequence>7</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>This Katalon Studio version has been deprecated. Please upgrade Katalon Studio to the latest version.</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2021-09-07T13:27:23</date>
+  <millis>1630996043513</millis>
+  <sequence>9</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End listener action : beforeExportKatalonReports</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+<record>
+  <date>2021-09-07T13:27:23</date>
+  <millis>1630996043678</millis>
+  <sequence>10</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/AgreeMitra/Login/Login_Positive</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/AgreeMitra/Login/Login_Positive</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/AgreeMitra/Login/Login_Positive</property>
+  <property name="source">\\Users\\deavag\\Desktop\\AgreeMitra\\Test Cases\\AgreeMitra\\Login\\Login_Positive.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2021-09-07T13:27:23</date>
+  <millis>1630996043979</millis>
+  <sequence>12</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : startApplication(Path, true)</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="startLine">16</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2021-09-07T13:27:24</date>
+  <millis>1630996044379</millis>
+  <sequence>14</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>User set preference: [&amp;apos;deviceId&amp;apos;, &amp;apos;emulator-5554&amp;apos;]</message>
+  <nestedLevel>1</nestedLevel>
+</record>
+</log>

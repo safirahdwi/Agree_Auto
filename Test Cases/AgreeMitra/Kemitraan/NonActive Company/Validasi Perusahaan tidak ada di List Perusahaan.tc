@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validasi Perusahaan tidak ada di List Perusahaan</name>
+   <tag></tag>
+   <comment>Field Tanggal
+Jenis Pengiriman
+Berat Kotor
+Upload Gambar [1]
+Upload Gambar [2]
+Upload Gambar [3]
+Upload Gambar [4]
+Upload Gambar [5]
+Simpan</comment>
+   <testCaseGuid>f03ab315-f22f-4fe0-8793-add7a95eb02b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tambah Aktivitas Panen</name>
+   <tag></tag>
+   <comment>Field Tanggal
+Populasi saat ini
+Produksi
+Biaya
+Apa ada aktivitas panen?
+Upload Gambar [1]
+Upload Gambar [2]
+Upload Gambar [3]
+Upload Gambar [4]
+Upload Gambar [5]
+Simpan</comment>
+   <testCaseGuid>af28ce5f-5570-4f1d-a74b-b867d3a09728</testCaseGuid>
+</TestCaseEntity>

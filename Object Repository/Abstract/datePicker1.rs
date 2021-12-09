@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>datePicker1</name>
+   <tag></tag>
+   <elementGuidId>bc9d1d42-3302-4ad9-82c1-e98461ce97a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.NumberPicker[1]/android.widget.EditText</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.NumberPicker[1]/android.widget.EditText</value>
+   </webElementProperties>
+</WebElementEntity>

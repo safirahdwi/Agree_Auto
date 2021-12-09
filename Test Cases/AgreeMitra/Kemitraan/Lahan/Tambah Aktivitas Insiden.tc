@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tambah Aktivitas Insiden</name>
+   <tag></tag>
+   <comment>Field Tanggal
+Musim
+Kategori Insiden
+Upaya
+Biaya
+Upload Gambar [1]
+Upload Gambar [2]
+Upload Gambar [3]
+Upload Gambar [4]
+Upload Gambar [5]
+Simpan</comment>
+   <testCaseGuid>c6e3a2b3-c7f4-498c-8459-93b7d2e20ab2</testCaseGuid>
+</TestCaseEntity>

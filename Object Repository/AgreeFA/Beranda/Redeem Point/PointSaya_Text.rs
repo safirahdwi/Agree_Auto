@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PointSaya_Text</name>
+   <tag></tag>
+   <elementGuidId>c5b5884a-3d6c-4952-83bf-3ad0f94c5d79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.view.ViewGroup[2]/android.widget.TextView[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.view.ViewGroup[2]/android.widget.TextView[2]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pengajuan Lahan Baru dengan restict</name>
+   <tag></tag>
+   <comment>Tidak Setuju
+Setuju
+Jenis Kemitraan
+Luas Lahan
+Komoditas ter-restrict
+Komoditas direstrict
+Alamat
+Tambah alamat
+Tidak
+Ya</comment>
+   <testCaseGuid>165de916-80a3-44c5-b139-5b4f74d84637</testCaseGuid>
+</TestCaseEntity>

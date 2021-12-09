@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tambah Aktivitas Penyulingan</name>
+   <tag></tag>
+   <comment>Field Tanggal
+Jenis Pascapanen
+Bahan Baku
+Hasil suling
+Catatan
+Biaya
+Apa ada aktivitas panen?
+Upload Gambar [1]
+Upload Gambar [2]
+Upload Gambar [3]
+Upload Gambar [4]
+Upload Gambar [5]
+Simpan</comment>
+   <testCaseGuid>2a54b633-f23e-4bbb-b5d9-a5860c2c925b</testCaseGuid>
+</TestCaseEntity>

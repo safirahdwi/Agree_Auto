@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pengajuan Lahan Baru</name>
+   <tag></tag>
+   <comment>Jenis Kemitraan
+Luas Lahan
+Komoditas
+Alamat
+Tambah alamat
+Tidak
+Ya</comment>
+   <testCaseGuid>bd3c48ec-e810-4357-bc45-d10a8f08fa4b</testCaseGuid>
+</TestCaseEntity>

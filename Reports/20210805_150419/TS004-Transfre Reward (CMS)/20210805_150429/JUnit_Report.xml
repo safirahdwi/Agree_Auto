@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS004-Transfre Reward (CMS)" time="32.16" tests="1" failures="0" errors="0">
+   <testsuite name="TS004-Transfre Reward (CMS)" tests="1" failures="0" errors="0" time="32.16" timestamp="2021-08-05 15:05:30" hostname="deavag - 192.168.0.104" id="Test Suites/TS004-Transfre Reward (CMS)">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/deavag/Desktop/AgreeMitra/Reports/20210805_150419/TS004-Transfre Reward (CMS)/20210805_150429"/>
+         <property name="logFiles" value="/Users/deavag/Desktop/AgreeMitra/Reports/20210805_150419/TS004-Transfre Reward (CMS)/20210805_150429/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="deavag - 192.168.0.104"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="7.5.11.1"/>
+         <property name="browser" value="Chrome 92.0.4515.131"/>
+         <property name="hostAddress" value="192.168.0.104"/>
+         <property name="sessionId" value="822d9f471de5383ee7fa38fdabf3c981"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=\&quot;\&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/CMS/Reward/Tukar Reward" time="26.926" classname="Test Cases/CMS/Reward/Tukar Reward" status="PASSED">
+         <system-out><![CDATA[2021-08-05 15:05:31 - [TEST_CASE][PASSED] - Test Cases/CMS/Reward/Tukar Reward: Test Cases/CMS/Reward/Tukar Reward
+
+2021-08-05 15:05:31 - [TEST_STEP][PASSED] - openBrowser(PathCMS): Browser is opened with url: 'http://agree-partner-superadmin-dev.vsan-apps.playcourt.id/'
+
+2021-08-05 15:05:31 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2021-08-05 15:05:31 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2021-08-05 15:05:35 - [MESSAGE][PASSED] - Browser is opened with url: 'http://agree-partner-superadmin-dev.vsan-apps.playcourt.id/'
+
+2021-08-05 15:05:35 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2021-08-05 15:05:37 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2021-08-05 15:05:37 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2021-08-05 15:05:37 - [MESSAGE][PASSED] - Current window maximized
+
+2021-08-05 15:05:37 - [TEST_STEP][PASSED] - abstraction.customKeyword.logintoCMS(UsernameCMS, PasswordCMS): abstraction.customKeyword.logintoCMS is PASSED
+
+2021-08-05 15:05:38 - [MESSAGE][PASSED] - Text 'superadmin4@agree.id' is set on object 'Object Repository/CMS/Login/Username_textfield'
+
+2021-08-05 15:05:38 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-08-05 15:05:38 - [MESSAGE][PASSED] - Object 'Object Repository/CMS/Login/Password_textfield' is present
+
+2021-08-05 15:05:39 - [MESSAGE][PASSED] - Text 'password' is set on object 'Object Repository/CMS/Login/Password_textfield'
+
+2021-08-05 15:05:39 - [MESSAGE][PASSED] - Object: 'Object Repository/CMS/Login/Masuk_button' is clicked on
+
+2021-08-05 15:05:41 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2021-08-05 15:05:41 - [MESSAGE][PASSED] - abstraction.customKeyword.logintoCMS is PASSED
+
+2021-08-05 15:05:41 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("CMS/RedeemReward/Notifikasi_Text"), 0): Object 'Object Repository/CMS/RedeemReward/Notifikasi_Text' is present
+
+2021-08-05 15:05:41 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-08-05 15:05:41 - [MESSAGE][PASSED] - Object 'Object Repository/CMS/RedeemReward/Notifikasi_Text' is present
+
+2021-08-05 15:05:41 - [TEST_STEP][PASSED] - click(findTestObject("CMS/RedeemReward/Notifikasi_Text"), STOP_ON_FAILURE): Object: 'Object Repository/CMS/RedeemReward/Notifikasi_Text' is clicked on
+
+2021-08-05 15:05:42 - [MESSAGE][PASSED] - Object: 'Object Repository/CMS/RedeemReward/Notifikasi_Text' is clicked on
+
+2021-08-05 15:05:42 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2021-08-05 15:05:44 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2021-08-05 15:05:44 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("CMS/RedeemReward/Detail_Button"), 0): Object 'Object Repository/CMS/RedeemReward/Detail_Button' is present
+
+2021-08-05 15:05:44 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-08-05 15:05:44 - [MESSAGE][PASSED] - Object 'Object Repository/CMS/RedeemReward/Detail_Button' is present
+
+2021-08-05 15:05:44 - [TEST_STEP][PASSED] - click(findTestObject("CMS/RedeemReward/Detail_Button"), STOP_ON_FAILURE): Object: 'Object Repository/CMS/RedeemReward/Detail_Button' is clicked on
+
+2021-08-05 15:05:44 - [MESSAGE][PASSED] - Object: 'Object Repository/CMS/RedeemReward/Detail_Button' is clicked on
+
+2021-08-05 15:05:44 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2021-08-05 15:05:46 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2021-08-05 15:05:46 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("CMS/RedeemReward/Sudahditransfer_Button"), 0): Object 'Object Repository/CMS/RedeemReward/Sudahditransfer_Button' is present
+
+2021-08-05 15:05:47 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-08-05 15:05:47 - [MESSAGE][PASSED] - Object 'Object Repository/CMS/RedeemReward/Sudahditransfer_Button' is present
+
+2021-08-05 15:05:47 - [TEST_STEP][PASSED] - click(findTestObject("CMS/RedeemReward/Sudahditransfer_Button"), STOP_ON_FAILURE): Object: 'Object Repository/CMS/RedeemReward/Sudahditransfer_Button' is clicked on
+
+2021-08-05 15:05:47 - [MESSAGE][PASSED] - Object: 'Object Repository/CMS/RedeemReward/Sudahditransfer_Button' is clicked on
+
+2021-08-05 15:05:47 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2021-08-05 15:05:49 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2021-08-05 15:05:49 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("CMS/RedeemReward/Konfirmasi_Popup"), 0): Object 'Object Repository/CMS/RedeemReward/Konfirmasi_Popup' is present
+
+2021-08-05 15:05:49 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-08-05 15:05:50 - [MESSAGE][PASSED] - Object 'Object Repository/CMS/RedeemReward/Konfirmasi_Popup' is present
+
+2021-08-05 15:05:50 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("CMS/RedeemReward/Ok_Button"), 0): Object 'Object Repository/CMS/RedeemReward/Ok_Button' is present
+
+2021-08-05 15:05:50 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-08-05 15:05:50 - [MESSAGE][PASSED] - Object 'Object Repository/CMS/RedeemReward/Ok_Button' is present
+
+2021-08-05 15:05:50 - [TEST_STEP][PASSED] - click(findTestObject("CMS/RedeemReward/Ok_Button"), STOP_ON_FAILURE): Object: 'Object Repository/CMS/RedeemReward/Ok_Button' is clicked on
+
+2021-08-05 15:05:50 - [MESSAGE][PASSED] - Object: 'Object Repository/CMS/RedeemReward/Ok_Button' is clicked on
+
+2021-08-05 15:05:50 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2021-08-05 15:05:52 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2021-08-05 15:05:52 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2021-08-05 15:05:57 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2021-08-05 15:05:57 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2021-08-05 15:05:57 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2021-08-05 15:05:30 - [TEST_SUITE][PASSED] - TS004-Transfre Reward (CMS): Test Cases/CMS/Reward/Tukar Reward]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

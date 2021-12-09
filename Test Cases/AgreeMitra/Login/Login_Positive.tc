@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_Positive</name>
+   <tag></tag>
+   <comment>Munculin error untuk field belum diiisi</comment>
+   <testCaseGuid>e9f2633b-6ea9-4a0f-b0be-790f8ab130ae</testCaseGuid>
+</TestCaseEntity>

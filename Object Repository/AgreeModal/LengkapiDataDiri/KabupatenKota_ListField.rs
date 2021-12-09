@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>KabupatenKota_ListField</name>
+   <tag></tag>
+   <elementGuidId>d9b6eb54-7c72-4e39-95fc-478b42ca2b7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.view.ViewGroup[3]/android.view.ViewGroup/android.widget.EditText</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.view.ViewGroup[3]/android.view.ViewGroup/android.widget.EditText</value>
+   </webElementProperties>
+</WebElementEntity>

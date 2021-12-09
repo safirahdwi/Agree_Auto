@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Lengkapi Data Diri</name>
+   <tag></tag>
+   <comment>masuk ke halaman list paket pinjaman
+masuk ke halaman filter list paket pinjaman
+kembali ke halaman list paket pinjaman
+masuk ke detail pinjaman
+masuk ke halaman lengkapi data
+kembali ke halaman pendaftaran kemitraan</comment>
+   <testCaseGuid>314984b6-929a-47d8-86d0-99f07a846ce9</testCaseGuid>
+</TestCaseEntity>

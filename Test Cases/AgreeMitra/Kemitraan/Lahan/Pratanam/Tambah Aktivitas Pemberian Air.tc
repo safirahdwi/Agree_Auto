@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tambah Aktivitas Pemberian Air</name>
+   <tag></tag>
+   <comment>Field Tanggal
+Jenis Aktivitas
+Kebutuhan Bahan
+Upload Gambar [1]
+Upload Gambar [2]
+Upload Gambar [3]
+Upload Gambar [4]
+Upload Gambar [5]
+Simpan</comment>
+   <testCaseGuid>e29dcb05-622f-4279-ac23-380fcd197109</testCaseGuid>
+</TestCaseEntity>

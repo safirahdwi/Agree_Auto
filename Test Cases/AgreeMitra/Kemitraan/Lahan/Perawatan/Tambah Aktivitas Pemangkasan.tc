@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tambah Aktivitas Pemangkasan</name>
+   <tag></tag>
+   <comment>Field Tanggal
+Jenis Perawatan
+Musim
+Jenis Pemangkasan
+Populasi Saat Ini
+Catatan
+Biaya
+Upload Gambar [1]
+Upload Gambar [2]
+Upload Gambar [3]
+Upload Gambar [4]
+Upload Gambar [5]
+Simpan</comment>
+   <testCaseGuid>82734b2d-0afd-428c-8e9e-0f4c0bdb4941</testCaseGuid>
+</TestCaseEntity>

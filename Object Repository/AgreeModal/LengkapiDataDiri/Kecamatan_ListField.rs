@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Kecamatan_ListField</name>
+   <tag></tag>
+   <elementGuidId>21b796c2-9a1f-4098-980f-56bd4f7a6a39</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.view.ViewGroup[4]/android.view.ViewGroup/android.widget.EditText</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.view.ViewGroup[4]/android.view.ViewGroup/android.widget.EditText</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Telepon perusahaan (Screen Info)</name>
+   <tag></tag>
+   <comment>Isi Data
+Edit Komoditas
+Unggah Dokumen
+Alamat Utama
+Kode Referral
+Ada yang belum terisi
+Kode Referral Tidak Tersedia</comment>
+   <testCaseGuid>50ac0ce1-92d5-4b18-b5dc-c1fcfefdbaef</testCaseGuid>
+</TestCaseEntity>

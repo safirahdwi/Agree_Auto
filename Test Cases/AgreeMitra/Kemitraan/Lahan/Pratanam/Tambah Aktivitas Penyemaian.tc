@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tambah Aktivitas Penyemaian</name>
+   <tag></tag>
+   <comment>Field Tanggal
+Jenis Aktivitas
+Kebutuhan Bibit
+Biaya
+Upload Gambar [1]
+Upload Gambar [2]
+Upload Gambar [3]
+Upload Gambar [4]
+Upload Gambar [5]
+Simpan</comment>
+   <testCaseGuid>ebeafe1c-8202-4dde-affb-7d2c20eb8dbb</testCaseGuid>
+</TestCaseEntity>

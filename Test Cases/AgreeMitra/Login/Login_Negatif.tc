@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_Negatif</name>
+   <tag></tag>
+   <comment>Fungsi Login Gagal
+Fungsi back icon
+Fungsi Login Ulang</comment>
+   <testCaseGuid>fae76f44-f4d1-4cdf-abca-e021bd326969</testCaseGuid>
+</TestCaseEntity>

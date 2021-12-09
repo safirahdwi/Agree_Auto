@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tambah Aktivitas Rencana Panen</name>
+   <tag></tag>
+   <comment>Field Tanggal
+Populasi saat ini
+Biaya
+Simpan</comment>
+   <testCaseGuid>d879aed7-d68d-4d63-9d38-dfcffd04ebfd</testCaseGuid>
+</TestCaseEntity>

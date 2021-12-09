@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Lengkapi Data Diri</name>
+   <tag></tag>
+   <comment>masuk ke halaman lengkapi data diri
+Format Email Salah
+Provinsi
+Kabupaten
+Kecamatan
+Desa
+Upload Dokumen
+Silang
+Ceklis
+Ceklis
+Isi Kuisioner
+Format Email Benar</comment>
+   <testCaseGuid>ad619fd5-0fb0-4c4e-bc40-163dac7cc47b</testCaseGuid>
+</TestCaseEntity>

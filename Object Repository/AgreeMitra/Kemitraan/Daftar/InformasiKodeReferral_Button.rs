@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>InformasiKodeReferral_Button</name>
+   <tag></tag>
+   <elementGuidId>45f93221-d1d4-4ff3-86ba-a5cf2ca1906f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.view.ViewGroup[6]/android.view.ViewGroup[2]/android.widget.ImageView</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.view.ViewGroup[6]/android.view.ViewGroup[2]/android.widget.ImageView</value>
+   </webElementProperties>
+</WebElementEntity>

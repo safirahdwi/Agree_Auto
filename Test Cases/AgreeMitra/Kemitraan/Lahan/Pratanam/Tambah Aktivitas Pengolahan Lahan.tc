@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tambah Aktivitas Pengolahan Lahan</name>
+   <tag></tag>
+   <comment>Field Tanggal
+Jenis Aktivitas
+Detail Kegiatan
+Upload Gambar [1]
+Upload Gambar [2]
+Upload Gambar [3]
+Upload Gambar [4]
+Upload Gambar [5]
+Simpan</comment>
+   <testCaseGuid>1b0c714c-56db-491e-bc94-5cdbaea1ca21</testCaseGuid>
+</TestCaseEntity>

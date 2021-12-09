@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tambah Aktivitas Pemasangan Ajir</name>
+   <tag></tag>
+   <comment>Field Tanggal
+Jenis Perawatan
+Musim
+Populasi Saat Ini
+Kebutuhan Bahan
+Catatan
+Biaya
+Upload Gambar [1]
+Upload Gambar [2]
+Upload Gambar [3]
+Upload Gambar [4]
+Upload Gambar [5]
+Upload Gambar [1]
+Upload Gambar [2]
+Upload Gambar [3]
+Upload Gambar [4]
+Upload Gambar [5]
+Simpan</comment>
+   <testCaseGuid>d0d91d8f-532c-44bf-a239-8338ee9065d8</testCaseGuid>
+</TestCaseEntity>

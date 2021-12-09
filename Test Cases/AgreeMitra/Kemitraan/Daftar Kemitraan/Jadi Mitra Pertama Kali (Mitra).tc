@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Jadi Mitra Pertama Kali (Mitra)</name>
+   <tag></tag>
+   <comment>Isi Data
+Edit Komoditas
+Unggah Dokumen
+Alamat Utama
+Kode Referral
+Ada yang belum terisi
+Kode Referral Tidak Tersedia</comment>
+   <testCaseGuid>0b842d3f-3444-4c1d-9477-dcb09f8aa22f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Path build aplikasi</description>
+      <initValue>'/Users/deavag/Downloads/app-2.30.4-develop.apk'</initValue>
+      <name>Path</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'rebahan1'</initValue>
+      <name>Username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'rebahan'</initValue>
+      <name>Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'D:\\Agree Modal Auto\\apk\\Agree Suite 2.24.10 new 2.apk'</initValue>
+      <name>Path2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'regaprild07'</initValue>
+      <name>Username2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'password'</initValue>
+      <name>Password2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'/Users/deavag/Downloads/app-release.apk'</initValue>
+      <name>Path3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'haris-fishper'</initValue>
+      <name>Username3</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'password'</initValue>
+      <name>Password3</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

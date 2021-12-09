@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BannerLengkapiDataDiri_Img</name>
+   <tag></tag>
+   <elementGuidId>f9e6c803-8a30-4365-84e6-907af3e1cd18</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.ImageView</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.ImageView</value>
+   </webElementProperties>
+</WebElementEntity>

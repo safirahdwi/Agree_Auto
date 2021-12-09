@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tambah Aktivitas Penjarangan</name>
+   <tag></tag>
+   <comment>Field Tanggal
+Jenis Perawatan
+Musim
+Jenis Penjarangan
+Penjarangan Ke -
+Populasi Awal
+Populasi Saat Ini
+Catatan
+Biaya
+Upload Gambar [1]
+Upload Gambar [2]
+Upload Gambar [3]
+Upload Gambar [4]
+Upload Gambar [5]
+Simpan</comment>
+   <testCaseGuid>a831e29a-f2b5-487a-8375-f4e26b7271e9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NonActive Commodity</name>
+   <tag></tag>
+   <comment>Popup NonActive
+Pengajuan Lahan Baru
+Popup NonActive
+Button Pengajuan Lahan Baru
+Popup NonActive
+Card Pengajuan Lahan
+Popup NonActive</comment>
+   <testCaseGuid>9392d2d2-4d5c-4afe-ad65-5e291182f7e9</testCaseGuid>
+</TestCaseEntity>

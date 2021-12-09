@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tambah Aktivitas Pengemasan</name>
+   <tag></tag>
+   <comment>Field Tanggal
+Jenis Pascapanen
+Bobot Awal
+Bobot Akhir
+Catatan
+Biaya
+Apa ada aktivitas panen?
+Upload Gambar [1]
+Upload Gambar [2]
+Upload Gambar [3]
+Upload Gambar [4]
+Upload Gambar [5]
+Simpan</comment>
+   <testCaseGuid>ed4713da-479a-4134-a9da-56401084f511</testCaseGuid>
+</TestCaseEntity>

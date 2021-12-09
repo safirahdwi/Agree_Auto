@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Coba,,,,2021-09-07 13:28:54,2021-09-07 13:29:24,29.384s,PASSED
+,,,,,,,
+Test Cases/AgreeFA/Login/Login_Positive,,,,2021-09-07 13:28:54,2021-09-07 13:29:24,29.139s,PASSED
+"startApplication(Path3, true)",,,,2021-09-07 13:28:55,2021-09-07 13:29:11,16.808s,PASSED
+"verifyElementExist(findTestObject(""AgreeFA/Login/Username_TextField""), 0)",,,,2021-09-07 13:29:11,2021-09-07 13:29:15,3.430s,PASSED
+"verifyElementExist(findTestObject(""AgreeFA/Login/Password_TextField""), 0)",,,,2021-09-07 13:29:15,2021-09-07 13:29:15,0.186s,PASSED
+"verifyElementExist(findTestObject(""AgreeFA/Login/Masuk_Button""), 0)",,,,2021-09-07 13:29:15,2021-09-07 13:29:15,0.149s,PASSED
+"setText(findTestObject(""AgreeFA/Login/Username_TextField""), ""Haris001@amsen.id"", 0)",,,,2021-09-07 13:29:15,2021-09-07 13:29:16,0.698s,PASSED
+"setText(findTestObject(""AgreeFA/Login/Password_TextField""), ""password"", 0)",,,,2021-09-07 13:29:16,2021-09-07 13:29:17,1.075s,PASSED
+"tap(findTestObject(""AgreeFA/Login/Masuk_Button""), 0)",,,,2021-09-07 13:29:17,2021-09-07 13:29:18,0.717s,PASSED
+hideKeyboard(),,,,2021-09-07 13:29:18,2021-09-07 13:29:18,0.265s,PASSED
+delay(2),,,,2021-09-07 13:29:18,2021-09-07 13:29:20,2.023s,PASSED
+"verifyElementExist(findTestObject(""AgreeFA/Beranda/Beranda_Text""), 0)",,,,2021-09-07 13:29:20,2021-09-07 13:29:24,3.504s,PASSED

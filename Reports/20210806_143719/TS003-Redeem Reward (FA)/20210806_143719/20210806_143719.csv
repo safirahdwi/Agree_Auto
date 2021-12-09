@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS003-Redeem Reward (FA),,,,2021-08-06 14:37:41,2021-08-06 14:38:20,39.000s,PASSED
+,,,,,,,
+Test Cases/AgreeFA/Reward/Redeem Reward,,,,2021-08-06 14:37:41,2021-08-06 14:38:20,38.740s,PASSED
+"startApplication(Path3, true)",,,,2021-08-06 14:37:41,2021-08-06 14:37:57,16.123s,PASSED
+"abstraction.customKeyword.logintoAppsFA(Username3, Password3)",,,,2021-08-06 14:37:57,2021-08-06 14:38:11,14.086s,PASSED
+"verifyElementExist(findTestObject(""AgreeFA/Beranda/Redeem Point/Point_Button""), 0)",,,,2021-08-06 14:38:11,2021-08-06 14:38:12,0.190s,PASSED
+"tap(findTestObject(""AgreeFA/Beranda/Redeem Point/Point_Button""), 0)",,,,2021-08-06 14:38:12,2021-08-06 14:38:12,0.343s,PASSED
+"delay(2, STOP_ON_FAILURE)",,,,2021-08-06 14:38:12,2021-08-06 14:38:14,2.010s,PASSED
+"verifyElementExist(findTestObject(""AgreeFA/Beranda/Redeem Point/Tukar_Button""), 0)",,,,2021-08-06 14:38:14,2021-08-06 14:38:14,0.231s,PASSED
+"tap(findTestObject(""AgreeFA/Beranda/Redeem Point/Tukar_Button""), 0)",,,,2021-08-06 14:38:14,2021-08-06 14:38:15,0.475s,PASSED
+"delay(2, STOP_ON_FAILURE)",,,,2021-08-06 14:38:15,2021-08-06 14:38:17,2.007s,PASSED
+"verifyElementExist(findTestObject(""AgreeFA/Beranda/Redeem Point/Konfirmasi_Popup""), 0)",,,,2021-08-06 14:38:17,2021-08-06 14:38:17,0.118s,PASSED
+"verifyElementExist(findTestObject(""AgreeFA/Beranda/Redeem Point/Ya_Button""), 0)",,,,2021-08-06 14:38:17,2021-08-06 14:38:17,0.104s,PASSED
+"verifyElementExist(findTestObject(""AgreeFA/Beranda/Redeem Point/Tidak_Button""), 0)",,,,2021-08-06 14:38:17,2021-08-06 14:38:17,0.104s,PASSED
+"tap(findTestObject(""AgreeFA/Beranda/Redeem Point/Ya_Button""), 0)",,,,2021-08-06 14:38:17,2021-08-06 14:38:17,0.226s,PASSED
+"delay(2, STOP_ON_FAILURE)",,,,2021-08-06 14:38:17,2021-08-06 14:38:19,2.007s,PASSED
+"verifyElementExist(findTestObject(""AgreeFA/Beranda/Redeem Point/Berhasil_Popup""), 0)",,,,2021-08-06 14:38:19,2021-08-06 14:38:19,0.099s,PASSED
+"verifyElementExist(findTestObject(""AgreeFA/Beranda/Redeem Point/Ok_Button""), 0)",,,,2021-08-06 14:38:19,2021-08-06 14:38:19,0.120s,PASSED
+"tap(findTestObject(""AgreeFA/Beranda/Redeem Point/Ok_Button""), 0)",,,,2021-08-06 14:38:19,2021-08-06 14:38:20,0.245s,PASSED

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS003-Redeem Reward (FA)" time="47.144" tests="1" failures="0" errors="0">
+   <testsuite name="TS003-Redeem Reward (FA)" tests="1" failures="0" errors="0" time="47.144" timestamp="2021-08-06 14:37:41" hostname="deavag - 192.168.0.104" id="Test Suites/TS003-Redeem Reward (FA)">
+      <properties>
+         <property name="deviceName" value="emulator-5554 (Android SDK built for x86 - Android 8.1.0)"/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/deavag/Desktop/AgreeMitra/Reports/20210806_143719/TS003-Redeem Reward (FA)/20210806_143719"/>
+         <property name="logFiles" value="/Users/deavag/Desktop/AgreeMitra/Reports/20210806_143719/TS003-Redeem Reward (FA)/20210806_143719/execution0.log, /Users/deavag/Desktop/AgreeMitra/Reports/20210806_143719/TS003-Redeem Reward (FA)/20210806_143719/appium.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="deavag - 192.168.0.104"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="appiumServerStatus" value="{\&quot;value\&quot;:{\&quot;build\&quot;:{\&quot;version\&quot;:\&quot;1.18.3\&quot;}},\&quot;sessionId\&quot;:null,\&quot;status\&quot;:0}"/>
+         <property name="katalonVersion" value="7.5.11.1"/>
+         <property name="deviceOS" value="Android"/>
+         <property name="appiumVersion" value="1.18.3"/>
+         <property name="deviceModel" value="Android SDK built for x86"/>
+         <property name="hostAddress" value="192.168.0.104"/>
+         <property name="deviceManufacturer" value="Google"/>
+         <property name="deviceId" value="emulator-5554"/>
+         <property name="deviceName" value="emulator-5554 (Android SDK built for x86 - Android 8.1.0)"/>
+         <property name="deviceOSVersion" value="8.1.0"/>
+      </properties>
+      <testcase name="Test Cases/AgreeFA/Reward/Redeem Reward" time="38.74" classname="Test Cases/AgreeFA/Reward/Redeem Reward" status="PASSED">
+         <system-out><![CDATA[2021-08-06 14:37:41 - [TEST_CASE][PASSED] - Test Cases/AgreeFA/Reward/Redeem Reward: Test Cases/AgreeFA/Reward/Redeem Reward
+
+2021-08-06 14:37:41 - [TEST_STEP][PASSED] - startApplication(Path3, true): Started app at: '/Users/deavag/Downloads/agree-logtan-mobile-surveyor-1.22.6-develop.apk'
+
+2021-08-06 14:37:42 - [MESSAGE][INFO] - User set preference: ['deviceId', 'emulator-5554']
+
+2021-08-06 14:37:43 - [MESSAGE][INFO] - Appium server started on port 55,245
+
+2021-08-06 14:37:57 - [MESSAGE][PASSED] - Started app at: '/Users/deavag/Downloads/agree-logtan-mobile-surveyor-1.22.6-develop.apk'
+
+2021-08-06 14:37:57 - [TEST_STEP][PASSED] - abstraction.customKeyword.logintoAppsFA(Username3, Password3): abstraction.customKeyword.logintoAppsFA is PASSED
+
+2021-08-06 14:37:57 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-08-06 14:38:02 - [MESSAGE][PASSED] - Text 'Haris001@amsen.id' has been set to element 'Object Repository/AgreeFA/Login/Username_TextField'
+
+2021-08-06 14:38:02 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-08-06 14:38:03 - [MESSAGE][PASSED] - Text 'password' has been set to element 'Object Repository/AgreeFA/Login/Password_TextField'
+
+2021-08-06 14:38:03 - [MESSAGE][PASSED] - Keyboard is hidden
+
+2021-08-06 14:38:03 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-08-06 14:38:03 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/AgreeFA/Login/Masuk_Button'
+
+2021-08-06 14:38:05 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2021-08-06 14:38:06 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-08-06 14:38:11 - [MESSAGE][PASSED] - Element 'Object Repository/AgreeFA/Beranda/Beranda_Text' is exist
+
+2021-08-06 14:38:11 - [MESSAGE][PASSED] - abstraction.customKeyword.logintoAppsFA is PASSED
+
+2021-08-06 14:38:11 - [TEST_STEP][PASSED] - verifyElementExist(findTestObject("AgreeFA/Beranda/Redeem Point/Point_Button"), 0): Element 'Object Repository/AgreeFA/Beranda/Redeem Point/Point_Button' is exist
+
+2021-08-06 14:38:11 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-08-06 14:38:12 - [MESSAGE][PASSED] - Element 'Object Repository/AgreeFA/Beranda/Redeem Point/Point_Button' is exist
+
+2021-08-06 14:38:12 - [TEST_STEP][PASSED] - tap(findTestObject("AgreeFA/Beranda/Redeem Point/Point_Button"), 0): Tapped on element 'Object Repository/AgreeFA/Beranda/Redeem Point/Point_Button'
+
+2021-08-06 14:38:12 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-08-06 14:38:12 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/AgreeFA/Beranda/Redeem Point/Point_Button'
+
+2021-08-06 14:38:12 - [TEST_STEP][PASSED] - delay(2, STOP_ON_FAILURE): Delayed 2 second(s)
+
+2021-08-06 14:38:14 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2021-08-06 14:38:14 - [TEST_STEP][PASSED] - verifyElementExist(findTestObject("AgreeFA/Beranda/Redeem Point/Tukar_Button"), 0): Element 'Object Repository/AgreeFA/Beranda/Redeem Point/Tukar_Button' is exist
+
+2021-08-06 14:38:14 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-08-06 14:38:14 - [MESSAGE][PASSED] - Element 'Object Repository/AgreeFA/Beranda/Redeem Point/Tukar_Button' is exist
+
+2021-08-06 14:38:14 - [TEST_STEP][PASSED] - tap(findTestObject("AgreeFA/Beranda/Redeem Point/Tukar_Button"), 0): Tapped on element 'Object Repository/AgreeFA/Beranda/Redeem Point/Tukar_Button'
+
+2021-08-06 14:38:14 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-08-06 14:38:15 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/AgreeFA/Beranda/Redeem Point/Tukar_Button'
+
+2021-08-06 14:38:15 - [TEST_STEP][PASSED] - delay(2, STOP_ON_FAILURE): Delayed 2 second(s)
+
+2021-08-06 14:38:17 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2021-08-06 14:38:17 - [TEST_STEP][PASSED] - verifyElementExist(findTestObject("AgreeFA/Beranda/Redeem Point/Konfirmasi_Popup"), 0): Element 'Object Repository/AgreeFA/Beranda/Redeem Point/Konfirmasi_Popup' is exist
+
+2021-08-06 14:38:17 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-08-06 14:38:17 - [MESSAGE][PASSED] - Element 'Object Repository/AgreeFA/Beranda/Redeem Point/Konfirmasi_Popup' is exist
+
+2021-08-06 14:38:17 - [TEST_STEP][PASSED] - verifyElementExist(findTestObject("AgreeFA/Beranda/Redeem Point/Ya_Button"), 0): Element 'Object Repository/AgreeFA/Beranda/Redeem Point/Ya_Button' is exist
+
+2021-08-06 14:38:17 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-08-06 14:38:17 - [MESSAGE][PASSED] - Element 'Object Repository/AgreeFA/Beranda/Redeem Point/Ya_Button' is exist
+
+2021-08-06 14:38:17 - [TEST_STEP][PASSED] - verifyElementExist(findTestObject("AgreeFA/Beranda/Redeem Point/Tidak_Button"), 0): Element 'Object Repository/AgreeFA/Beranda/Redeem Point/Tidak_Button' is exist
+
+2021-08-06 14:38:17 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-08-06 14:38:17 - [MESSAGE][PASSED] - Element 'Object Repository/AgreeFA/Beranda/Redeem Point/Tidak_Button' is exist
+
+2021-08-06 14:38:17 - [TEST_STEP][PASSED] - tap(findTestObject("AgreeFA/Beranda/Redeem Point/Ya_Button"), 0): Tapped on element 'Object Repository/AgreeFA/Beranda/Redeem Point/Ya_Button'
+
+2021-08-06 14:38:17 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-08-06 14:38:17 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/AgreeFA/Beranda/Redeem Point/Ya_Button'
+
+2021-08-06 14:38:17 - [TEST_STEP][PASSED] - delay(2, STOP_ON_FAILURE): Delayed 2 second(s)
+
+2021-08-06 14:38:19 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2021-08-06 14:38:19 - [TEST_STEP][PASSED] - verifyElementExist(findTestObject("AgreeFA/Beranda/Redeem Point/Berhasil_Popup"), 0): Element 'Object Repository/AgreeFA/Beranda/Redeem Point/Berhasil_Popup' is exist
+
+2021-08-06 14:38:19 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-08-06 14:38:19 - [MESSAGE][PASSED] - Element 'Object Repository/AgreeFA/Beranda/Redeem Point/Berhasil_Popup' is exist
+
+2021-08-06 14:38:19 - [TEST_STEP][PASSED] - verifyElementExist(findTestObject("AgreeFA/Beranda/Redeem Point/Ok_Button"), 0): Element 'Object Repository/AgreeFA/Beranda/Redeem Point/Ok_Button' is exist
+
+2021-08-06 14:38:19 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-08-06 14:38:19 - [MESSAGE][PASSED] - Element 'Object Repository/AgreeFA/Beranda/Redeem Point/Ok_Button' is exist
+
+2021-08-06 14:38:19 - [TEST_STEP][PASSED] - tap(findTestObject("AgreeFA/Beranda/Redeem Point/Ok_Button"), 0): Tapped on element 'Object Repository/AgreeFA/Beranda/Redeem Point/Ok_Button'
+
+2021-08-06 14:38:19 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2021-08-06 14:38:20 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/AgreeFA/Beranda/Redeem Point/Ok_Button']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2021-08-06 14:37:41 - [TEST_SUITE][PASSED] - TS003-Redeem Reward (FA): Test Cases/AgreeFA/Reward/Redeem Reward]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

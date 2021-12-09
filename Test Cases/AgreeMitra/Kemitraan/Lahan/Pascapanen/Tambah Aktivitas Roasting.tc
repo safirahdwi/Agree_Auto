@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tambah Aktivitas Roasting</name>
+   <tag></tag>
+   <comment>Field Tanggal
+Jenis Pascapanen
+Bobot Awal
+Bobot Akhir
+Catatan
+Apa ada aktivitas panen?
+Upload Gambar [1]
+Upload Gambar [2]
+Upload Gambar [3]
+Upload Gambar [4]
+Upload Gambar [5]
+Simpan</comment>
+   <testCaseGuid>24638d17-b285-489c-a0f7-75a84441ee4f</testCaseGuid>
+</TestCaseEntity>
